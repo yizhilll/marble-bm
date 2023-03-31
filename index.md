@@ -1,11 +1,13 @@
 ---
 title: "MARBLE: Music Audio Representation Benchmark for universaL Evaluation"
-keywords: sample homepage
+keywords: homepage
 tags: [getting_started]
-sidebar: mydoc_sidebar
+# sidebar: mydoc_sidebar
 permalink: index.html
 summary: Music Audio Representation Benchmark for universaL Evaluation (MARBLE) is a benchmark proposed to help the academic & industrial to study, compare, and select pre-trained models according comprehensive performances on a wide range of Music Information Retrieval (MIR) tasks.
 layout: "page"
+toc: false
+last_updated: "31/03/2023"
 ---
 
 ## Introduction to MARBLE

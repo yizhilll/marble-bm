@@ -3,6 +3,7 @@ title: Sample-level Classification Leaderboard
 # sidebar: mydoc_sidebar
 permalink: sampel-level_classification_results.html
 folder: results
+datatable: true
 ---
 
 

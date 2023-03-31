@@ -10,7 +10,7 @@ topnav:
     # - title: Results
     #   url: /results
     - title: Organisers
-      url: /organisers
+      url: /organisers_intro
 
 #Topnav dropdowns
 topnav_dropdowns:

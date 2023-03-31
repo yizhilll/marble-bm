@@ -3,6 +3,7 @@ title: Overall Results
 # sidebar: mydoc_sidebar
 permalink: overall_results.html
 folder: results
+datatable: true
 ---
 
 

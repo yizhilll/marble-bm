@@ -3,6 +3,7 @@ title: Sequence Labelling Results
 # sidebar: mydoc_sidebar
 permalink: sequence_labelling_results.html
 folder: results
+datatable: true
 ---
 
 
