@@ -1,8 +1,8 @@
 ---
-title:  "Sample post"
+title:  "A post at 2022"
 published: true
-permalink: samplepost.html
-summary: "This is some summary frontmatter for my sample post."
+permalink: post-dummy-past.html
+summary: "This is a dummy post dated in 2022."
 tags: [news, getting_started]
 ---
 
